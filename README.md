@@ -56,6 +56,4 @@ If you want to contribute to the Crowd Control System, please follow these guide
 
 Specify the license under which the Crowd Control System is distributed. Include any relevant copyright or license information.
 
-```
-MIT License
-Copyright (c
+
